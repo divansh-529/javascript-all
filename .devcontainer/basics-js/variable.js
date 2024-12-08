@@ -5,4 +5,6 @@ accountCity = "Hisar"
 
 
 // accountId =2
-console.table[ accountEmail, accountId ,  accountPassword]
+console.log(accountEmail);
+
+console.table([ accountId ,accountEmail , accountPassword , accountCity])
